@@ -1,0 +1,29 @@
+img{
+     height: 200px;
+     width: auto;
+     padding-top: 10px;
+     padding-left: 5px;
+     text-align: center;
+}
+h1{
+    text-align: center;
+    background-color: white;
+}
+.box{
+    height: 500px;
+    width: 900px;
+    background-color:#05A1D3 ;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+
+body{
+    background-color: #05D3BA;
+}
+.container{
+    text-align: center;
+}
+
+table{
+    background-color: white;
+}
